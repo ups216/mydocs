@@ -1,19 +1,18 @@
 .. _rst_mydoc2016
 
 ##############################################
-Restructured Text (reST) and Sphinx CheatSheet
+徐磊的reST文档格式测试
 ##############################################
 
-.. topic:: Overview
+.. topic:: 概述
 
-    This page describes some of the RST and Sphinx syntax. It is based on resource found at `Sphinx <http://sphinx.pocoo.org/rest.html>`_ , `Docutils <http://docutils.sourceforge.net/rst.html>`_ and more generally software documentation written with Sphinx. 
+    我只是拷贝粘贴了额一些代码 `Sphinx <http://sphinx.pocoo.org/rest.html>`_ , `Docutils <http://docutils.sourceforge.net/rst.html>`_ 测试一下是否好用而已
 
-
-    This is not an exhaustive description but it should allow you to start and create already nice documentation.
+    这份文档只是用于测试而已
 
 
     :Date: |today|
-    :Author: **Thomas Cokelaer**
+    :Author: **徐磊**
 
 
 .. contents:: 
