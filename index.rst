@@ -24,7 +24,6 @@ Visual Studio ALM的动手实验
 --------
 
 .. code-block:: c#
-    :number-lines:
 
     public void Startup(){
         Console.WriteLine("Hello World!");
@@ -32,7 +31,6 @@ Visual Studio ALM的动手实验
     
 
 .. code-block:: powershell
-    :number-lines:
     
     get-help *
     
