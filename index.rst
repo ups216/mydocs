@@ -109,3 +109,13 @@ True   False  False
 False  True   False
 True   True   True
 =====  =====  =======
+
+
+图片示例
+--------
+
+.. figure:: /images/github.jpg
+    :width: 200
+    
+    图：Github Logo 图片猫
+    
