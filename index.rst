@@ -101,11 +101,11 @@ JavaScript是非常强大的开发语言，不仅仅在客户端，也在服务�
 **SimpleTable 示例**
 
     
-    =====  =====  =======
-    A      B    A and B
-    =====  =====  =======
-    False  False  False
-    True   False  False
-    False  True   False
-    True   True   True
-    =====  =====  =======
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
