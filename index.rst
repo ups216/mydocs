@@ -125,8 +125,11 @@ True   True   True
 测试一下等宽字体 ``git clone``
 
 .. role:: ul
-    :class: underline
-:ul:`这里是下划线` 效果
+   :class: underline
+
+:ul:`下划线` 效果
+
+不留白的\ :ul:`下划线`\ 效果
 
 .. role:: strike
     :class: strike
