@@ -23,12 +23,16 @@ Visual Studio ALM的动手实验
 代码示例
 --------
 
+**C#代码示例**
+
 .. code-block:: c#
 
     public void Startup(){
         Console.WriteLine("Hello World!");
     }
     
+
+**PowerShell代码示例**
 
 .. code-block:: powershell
     
