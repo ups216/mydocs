@@ -25,6 +25,8 @@ Visual Studio ALM的动手实验
 
 **C#代码示例**
 
+一下是C#代码示例
+
 .. code-block:: c#
     :linenos:
 
@@ -35,10 +37,35 @@ Visual Studio ALM的动手实验
 
 **PowerShell代码示例**
 
+一下是PowerShell代码示例，本实验文档将大量使用PowerShell来进行环境配置
+
 .. code-block:: powershell
     :linenos:
     
     get-help *
+    
+**JavaScript代码示例**
+
+JavaScript是非常强大的开发语言，不仅仅在客户端，也在服务器端
+
+.. code-block:: javascript
+    :linenos:
+    
+    'use strict';
+
+    const express = require('express');
+
+    // Constants
+    const PORT = 8080;
+
+    // App
+    const app = express();
+    app.get('/', function (req, res) {
+    res.send('Hello world\n');
+    });
+
+    app.listen(PORT);
+    console.log('Running on http://localhost:' + PORT);
     
 
     
