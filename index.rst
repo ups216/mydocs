@@ -1,6 +1,6 @@
 .. _rst_mydoc2016
 
-Visual Studio ALM的动手实验
+reST 文档格式测试
 ==============================
 
 概述
@@ -110,7 +110,6 @@ False  True   False
 True   True   True
 =====  =====  =======
 
-
 图片示例
 --------
 
@@ -119,3 +118,38 @@ True   True   True
     
     图：Github Logo 图片猫
     
+
+各种字体格式测试
+---------------
+
+测试一下等宽字体 ``git clone``
+
+.. role:: ul
+    :class: underline
+
+:ul: `这里是下划线` 效果
+
+.. role:: strike
+    :class: strike
+
+:strike: `这里是删除线` 效果
+
+**这里是粗体**效果，*这里是斜体* 效果
+
+下面是列表
+
+1. 列表可以折行
+   对其则自动续行
+   
+2. 列表可以包含多个段落
+
+   空行开始的心段落，
+   新段落要和列表项内容对其
+   
+3. 列表下的代码注意对其
+
+    ::
+    
+        $ printf "Hello World. \n"
+
+
