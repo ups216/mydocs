@@ -10,7 +10,7 @@
     :Date: |today|
     :Author: **徐磊**
 
-.. contents:: 
+.. toctree::
     :titlesonly:
     
     getting-started/index
