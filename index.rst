@@ -48,7 +48,7 @@ Visual Studio ALM的动手实验
 
 JavaScript是非常强大的开发语言，不仅仅在客户端，也在服务器端。
 
-注意一下代码的第9和11行被高亮显示！
+注意以下代码的第9和11行被高亮显示！
 
 .. code-block:: javascript
     :linenos:
