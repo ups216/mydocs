@@ -1,6 +1,6 @@
 .. _rst_mydoc2016
 
-徐磊的reST文档格式测试
+Visual Studio ALM的动手实验文档
 ##############################################
 
 .. topic:: 概述
@@ -13,6 +13,7 @@
 .. toctree::
     :titlesonly:
     
+    index
     getting-started/index
     
 
