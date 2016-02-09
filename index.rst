@@ -1,6 +1,6 @@
 .. _rst_mydoc2016
 
-Visual Studio ALM的动手实验文档
+Visual Studio ALM的动手实验
 ==============================
 
 概述
@@ -16,5 +16,6 @@ Visual Studio ALM的动手实验文档
 .. toctree::
     :titlesonly:
     
+    index
     getting-started/index
     
