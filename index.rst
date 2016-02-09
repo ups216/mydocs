@@ -20,5 +20,11 @@ Visual Studio ALM的动手实验
     getting-started/index
     concepts/index
 
+代码示例
+--------
+.. code-block:: c#
 
+    public void Startup(){
+        Console.WriteLine("Hello World!");
+    }
     
