@@ -25,7 +25,7 @@ Visual Studio ALM的动手实验
 
 **C#代码示例**
 
-.. code:: c#
+.. code-block:: c#
     :number-lines:
 
     public void Startup(){
@@ -35,7 +35,7 @@ Visual Studio ALM的动手实验
 
 **PowerShell代码示例**
 
-.. code:: powershell
+.. code-block:: powershell
     :number-lines:
     
     get-help *
