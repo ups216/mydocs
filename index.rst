@@ -206,4 +206,4 @@ Python式段落缩进：
 .. |stub-icon| unicode:: U+1F527
 
 .. note::
-    This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders that have not been written yet. You can track the status of these topics through our public documentation `issue tracker <https://github.com/aspnet/docs/issues>`_. Learn how you can `contribute <https://github.com/aspnet/Docs/blob/master/CONTRIBUTING.md>`_ on GitHub. Help shape the scope and focus of the ASP.NET content by taking the `ASP.NET 5 Documentation Survey <https://docs.asp.net/en/latest/contribute/docs-survey.html>`_.
+    这份文档是用来指引你使用reST格式撰写文档，如果您看到 |stub-icon| 图标，则意味着这部分文档还没有编写完毕。 你你可以通过我们的 `问题列表 <https://github.com/aspnet/docs/issues>`_ 来提交问题。
