@@ -11,7 +11,7 @@
     :Author: **徐磊**
 
 .. contents:: 
-    :titleonly:
+    :titlesonly:
     
     getting-started/index
     
