@@ -23,9 +23,6 @@ Visual Studio ALM的动手实验
 代码示例
 --------
 
-**这是一段C#代码示例**
-
-
 .. code-block:: c#
     :number-lines:
 
@@ -33,9 +30,6 @@ Visual Studio ALM的动手实验
         Console.WriteLine("Hello World!");
     }
     
-
-**这是一段PowerShell**
-
 
 .. code-block:: powershell
     :number-lines:
