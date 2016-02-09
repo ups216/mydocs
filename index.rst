@@ -16,6 +16,5 @@ Visual Studio ALM的动手实验
 .. toctree::
     :titlesonly:
     
-    index
     getting-started/index
     
