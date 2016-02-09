@@ -201,3 +201,4 @@ Python式段落缩进：
 
 ``这些内容是需要你注意的，所以使用加框显示``
 
+.. attention:: ASP.NET 5 RC1 is now available! Please see the :doc:`Getting Started <getting-started/index>` instructions for installing the latest version.
