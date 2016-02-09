@@ -50,6 +50,7 @@ JavaScript是非常强大的开发语言，不仅仅在客户端，也在服务�
 
 .. code-block:: javascript
     :linenos:
+    :emphasize-lines: 9,11
     
     'use strict';
 
