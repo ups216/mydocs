@@ -17,4 +17,7 @@ Visual Studio ALM的动手实验
     :titlesonly:
     
     getting-started/index
+    concepts/index
+
+
     
