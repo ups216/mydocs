@@ -5,15 +5,15 @@
 
 .. topic:: 概述
 
-    这份文档只是用于测试而已
-
+    本文档库提供Visual Studio ALM的动手实验文档及相关资源。
 
     :Date: |today|
     :Author: **徐磊**
 
-
 .. contents:: 
-    :depth: 3
+    :titleonly:
+    
+    getting-started/index
     
 
 一级标题
